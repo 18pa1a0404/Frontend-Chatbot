@@ -1,0 +1,43 @@
+
+.container{
+    background-color: #061145;
+    width: 335px;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 5%;
+    box-shadow: 10px 10px 37px 0px rgba(0,0,0,0.75);
+  }
+  
+  #entry{
+    padding: 18px 0px 24px 6px;
+    border-radius: 5px;
+    font-size: 26px;
+  }
+  
+  .btn{
+    background-color: white;
+    width: 80px;
+    height: 70px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+
+
+  .optbtn{
+    width : 100px;
+    padding : 5px;
+    cursor: pointer;
+  }
+  
+  .btnEqual{
+    background-color: white;
+    width: 332px;
+    height: 70px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
