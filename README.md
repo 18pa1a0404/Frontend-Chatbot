@@ -9,3 +9,12 @@ This chatbot contains:
 * style.html: Adds style to classes present in index.html,options.html,frontend.html.
 * calculator.html: Adds style to the classes and id's present in calculator.html,weather.html.
 * script.js: Attatch all the files and define id's and some functions.
+
+## Teammates
+* Adabala John Prasad(18pa1a0402)
+* Adabala Jyothi(18pa10502)
+* Addala Pradeep Naidu(18pa1a0404)
+
+
+## repl.it account link:
+https://repl.it/~
