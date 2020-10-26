@@ -1,4 +1,7 @@
 # Frontend-Chatbot
+
+
+
 ## Frontend of Weather based chatbot
 This chatbot contains:
 * index.html : For initialising the chatbot, asks to enter your name. This step contains the address for next step (options.html).
@@ -10,14 +13,20 @@ This chatbot contains:
 * calculator.html: Adds style to the classes and id's present in calculator.html,weather.html.
 * script.js: Attatch all the files and define id's and some functions.
 
+
+
 ## Teammates
 * A. John Prasad(18pa1a0402)
 * A.B.V.R. Jyothi(18pa10502)
 * A. Pradeep Naidu(18pa1a0404)
 
 
+
+
 ## repl.it account link:
 https://repl.it/@18pa1a0404/WeatherBot#calculator.css
+
+
 
 
 ## Description :
@@ -25,9 +34,13 @@ In this design we have mainly four pages.First page welcomes the user and asks f
 ## Demo Vedio :
 https://youtu.be/6DWG0F5p9c4
 
+
+
+
 ## Block Diagram :
 Calculator-Weather
 ![frontend bockdiagram](https://user-images.githubusercontent.com/72607765/97147144-0b2a0f00-178f-11eb-8f63-998ea7eaf586.jpg)
+
 
 
 
