@@ -11,9 +11,9 @@ This chatbot contains:
 * script.js: Attatch all the files and define id's and some functions.
 
 ## Teammates
-* Adabala John Prasad(18pa1a0402)
-* Adabala Jyothi(18pa10502)
-* Addala Pradeep Naidu(18pa1a0404)
+* A. John Prasad(18pa1a0402)
+* A.B.V.R. Jyothi(18pa10502)
+* A. Pradeep Naidu(18pa1a0404)
 
 
 ## repl.it account link:
@@ -27,6 +27,9 @@ https://youtu.be/6DWG0F5p9c4
 
 Block Diagram :
 Calculator-Weather
+![frontend bockdiagram](https://user-images.githubusercontent.com/72607765/97147144-0b2a0f00-178f-11eb-8f63-998ea7eaf586.jpg)
+
+
 
 ##Referred :
 W3 Schools
